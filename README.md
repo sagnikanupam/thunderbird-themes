@@ -35,7 +35,7 @@ Please note that:
 
 ## To be fixed
 
-*  Calendar and Tasks tabs still carry over the theme settings from the original Full Dark Monterail theme. Settings more appropriate to Onyx may be added in future versions.\
+*  Calendar and Tasks tabs still carry over the theme settings from the original Full Dark Monterail theme. Settings more appropriate to Onyx may be added in future versions.
 * Currently, several rules work by overriding existing rules. Code needs to be cleaned to remove rule clashes.
 
 ## Contributions
