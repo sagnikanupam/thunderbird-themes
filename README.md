@@ -29,7 +29,7 @@ Onyx:
 Please note that:
 
 * Certain parts of the above screenshot have been altered to remove personally identifiable information. The parts are located in the tab containing the text "Inbox - " and the folder pane. In both cases, the altered areas display email IDs.
-* The first email in the message pane is unread, while the second image has been selected.
+* The first email in the message pane is unread, while the second email has been selected.
 * The [Thunderbird Conversations add-on](https://addons.thunderbird.net/en-US/thunderbird/addon/gmail-conversation-view/?src=ss?src=ss) has been used in this view.
 * The messages are currently in Threaded view and sorted in ascending order by Correspondents, while the folders are currently in Unified View. Changes in either the add-on settings or the view settings may lead to different viewing results.
 
